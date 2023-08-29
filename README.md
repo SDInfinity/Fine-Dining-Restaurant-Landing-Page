@@ -14,13 +14,13 @@
 ## Sections
 
 1. **Header with Responsive Mobile Menu** - Navigation bar with a mobile-friendly menu for easy navigation.
-2. **About Us** - Discover the story behind our restaurant and its mission.
+2. **About Us** - Discover the story behind the restaurant and its mission.
 3. **Special Menu** - Explore our special menu items with enticing descriptions.
-4. **Chef** - Meet our talented chefs and learn about their expertise.
+4. **Chef** - Meet the talented chef and learn about their expertise.
 5. **Intro** - A captivating introduction section to set the ambiance.
-6. **Laurels** - Showcase the achievements and recognition our restaurant has received.
+6. **Laurels** - Showcase the achievements and recognition the restaurant has received.
 7. **Gallery** - Visualize our restaurant through a collection of stunning images.
-8. **Find Us** - Get directions to our restaurant's location.
+8. **Find Us** - Get directions to the restaurant's location.
 9. **Footer** - Footer section with contact information and social media links.
 
 ## Reusable Components
